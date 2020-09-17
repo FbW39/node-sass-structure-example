@@ -2,17 +2,17 @@ Basic folder structure for an Express Application using the livereload and the n
 
 >     root
 >     ├── public
->     │ ├── css
->     │ │ └── main.css
->     │ ├── img
->     │ │ ├── img1.jpg
->     │ │ └── img2.jpg
->     │ └── js
->     │ │ └── main.js
+>     │	├── css
+>     │	│	└── main.css
+>     │	├── img
+>     │	│	├── img1.jpg
+>     │	│	└── img2.jpg
+>     │	└── js
+>     │	│	└── main.js
 >     ├── sass
->     │ └── main.scss
+>     │	└── main.scss
 >     ├── src
->     │ └── index.js
+>     │	└── index.js
 >     ├── .gitignore
 >     └── package.json
 
