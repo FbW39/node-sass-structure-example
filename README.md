@@ -7,8 +7,9 @@ Basic folder structure for an Express Application using the livereload and the n
 >     │   ├── img
 >     │   │   ├── img1.jpg
 >     │   │   └── img2.jpg
->     │   └── js
+>     │   │── js
 >     │   │   └── main.js
+>     │   └── index.html
 >     ├── sass
 >     │   └── main.scss
 >     ├── src
